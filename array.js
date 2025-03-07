@@ -3,5 +3,5 @@ const products = [
     {name:'laptop', price:20345},
 
 ]
-console.log(Array.isArray)
+// console.log(Array.isArray)
 console.log (products[1])
